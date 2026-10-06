@@ -48,11 +48,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
@@ -73,11 +73,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
@@ -98,11 +98,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
@@ -123,11 +123,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
@@ -148,11 +148,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
@@ -173,11 +173,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
@@ -198,11 +198,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
@@ -223,11 +223,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
@@ -248,11 +248,11 @@ public class KolkoKrzyzyk {
                     ileWybranych++;
                     switch (czyWygrana()) {
                         case -1:
-                            System.out.println("Wygral X");
+                            JOptionPane.showMessageDialog(null, "Wygral X");
                             break;
 
                         case 1:
-                            System.out.println("Wygralo O");
+                            JOptionPane.showMessageDialog(null, "Wygral O");
                             break;
 
                         case 2:
