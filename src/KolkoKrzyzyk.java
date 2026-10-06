@@ -56,7 +56,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
@@ -81,7 +81,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
@@ -106,7 +106,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
@@ -131,7 +131,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
@@ -156,7 +156,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
@@ -181,7 +181,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
@@ -206,7 +206,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
@@ -231,7 +231,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
@@ -256,7 +256,7 @@ public class KolkoKrzyzyk {
                             break;
 
                         case 2:
-                            System.out.println("Remis");
+                            JOptionPane.showMessageDialog(null, "Remis!");
                             break;
                     }
                 }
